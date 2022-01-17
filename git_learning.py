@@ -1,0 +1,1 @@
+print("Uda sie na bank !")1
