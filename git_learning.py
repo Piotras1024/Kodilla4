@@ -1,1 +1,2 @@
-print("Uda sie na bank !")1
+print("Uda sie na bank !")
+print("potwierdzam misje")
